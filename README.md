@@ -70,9 +70,10 @@ I file di background per entrambe le pagine sono inclusi nella repository:
 ## 📂 Struttura Progetto
 ```
 ├── car_data.xlsx              # Dataset vendite automobili
-├── Dashboard.pbix             # File Power BI
-├── background_overview.png    # Background pagina Overview
-├── background_dettagli.png    # Background pagina Dettagli
+├── Car_Sales.pbix             # File Power BI
+├── Background/                # File background per le pagine
+│   ├── background_overview.png
+│   └── background_dettagli.png
 ├── Formule_DAX.md             # Documentazione completa formule DAX
 ├── Screenshots/               # Screenshot delle dashboard
 │   ├── Overview.png
